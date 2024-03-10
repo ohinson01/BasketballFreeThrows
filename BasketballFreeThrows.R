@@ -50,6 +50,6 @@ myplot((Points - FreeThrows)/FieldGoals)
 #   the player to stand 15ft (4.57m) away from the hoop. That's 
 #   probably why Dwight Howard's Free Throw Accuracy is poor.
 
-
+#(c) Kirill Eremenko, www.superdatascience.com
 
 
